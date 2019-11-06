@@ -1,1 +1,16 @@
-[{"id":"122473db.d1a25c","type":"change","z":"9bdea642.de0608","name":"","rules":[{"t":"set","p":"payload","pt":"msg","to":"{\"degree\":[{\"id\":1,\"name\":\"GIEI\"},{\"id\":2,\"name\":\"GIM\"},{\"id\":3,\"name\":\"GM\"}]}","tot":"json"}],"action":"","property":"","from":"","to":"","reg":false,"x":400,"y":160,"wires":[["faaf71d0.c225b"]]}]
+{
+    "degree": [
+        {
+            "id": 1,
+            "name": "GIEI"
+        },
+        {
+            "id": 2,
+            "name": "GIM"
+        },
+        {
+            "id": 3,
+            "name": "GM"
+        }
+    ]
+}
