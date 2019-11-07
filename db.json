@@ -12,5 +12,24 @@
             "id": 3,
             "name": "GM"
         }
+    ],
+     "course": [
+        {
+            "id": 1,
+            "name": "PRIMERO"
+        },
+        {
+            "id": 2,
+            "name": "SEGUNDO"
+        },
+         {
+            "id": 3,
+            "name": "TERCERO"
+        },
+        {
+            "id": 4,
+            "name": "CUARTO"
+        }
     ]
+    
 }
