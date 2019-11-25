@@ -2,15 +2,30 @@
     "degree": [
         {
             "id": 1,
-            "name": "GIEI            "
+            "name": "GIEI"
         },
         {
             "id": 2,
-            "name": "GIM             "
+            "name": "GEM"
         },
         {
             "id": 3,
-            "name": "GM              "
+            "name": "GM"
+        }
+    ],
+    {
+    "subject": [
+        {
+            "id": 1,
+            "name": "MAT"
+        },
+        {
+            "id": 2,
+            "name": "FISICA"
+        },
+        {
+            "id": 3,
+            "name": "ELECTRONICA"
         }
     ],
      "course": [
