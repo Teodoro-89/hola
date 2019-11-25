@@ -2,15 +2,15 @@
     "degree": [
         {
             "id": 1,
-            "name": "GIEI"
+            "name": "GIEI            "
         },
         {
             "id": 2,
-            "name": "GIM"
+            "name": "GIM             "
         },
         {
             "id": 3,
-            "name": "GM"
+            "name": "GM              "
         }
     ],
      "course": [
