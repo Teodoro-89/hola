@@ -17,14 +17,18 @@
     "subject": [
         {
             "id": 1,
-            "name": "MAT"
+            "name": "MATES"
         },
         {
             "id": 2,
             "name": "FISICA"
         },
+          {
+            "id":3,
+            "name": "POTENCIA"
+        },
         {
-            "id": 3,
+            "id": 4,
             "name": "ELECTRONICA"
         }
     ],
