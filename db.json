@@ -32,6 +32,24 @@
             "name": "ELECTRONICA"
         }
     ],
+        "practice": [
+        {
+            "id": 1,
+            "name": "MATES"
+        },
+        {
+            "id": 2,
+            "name": "FISICA"
+        },
+          {
+            "id":3,
+            "name": "POTENCIA"
+        },
+        {
+            "id": 4,
+            "name": "ELECTRONICA"
+        }
+    ],
      "course": [
         {
             "id": 1,
