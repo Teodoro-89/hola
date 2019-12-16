@@ -34,20 +34,28 @@
     ],
         "practice": [
         {
-            "id": 1,
-            "name": "MATES"
+            "id":1,
+          
         },
-        {
-            "id": 2,
-            "name": "FISICA"
+                {
+            "id":2,
+          
         },
-          {
+                {
             "id":3,
-            "name": "POTENCIA"
+          
         },
         {
             "id": 4,
-            "name": "ELECTRONICA"
+           
+        },
+          {
+            "id":5,
+           
+        },
+        {
+            "id":6,
+            
         }
     ],
      "course": [
