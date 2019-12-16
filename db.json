@@ -23,12 +23,20 @@
             "id": 2,
             "name": "FISICA"
         },
-          {
-            "id":3,
-            "name": "POTENCIA"
+           {
+            "id": 3,
+            "name": "QUIMICA"
         },
         {
             "id": 4,
+            "name": "ELECTRICA"
+        },
+          {
+            "id":5,
+            "name": "POTENCIA"
+        },
+        {
+            "id": 6,
             "name": "ELECTRONICA"
         }
     ],
