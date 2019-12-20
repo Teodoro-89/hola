@@ -59,27 +59,27 @@
         "practice": [
         {
             "id":1,
-          
+          "name": "PRIMERO"
         },
                 {
             "id":2,
-          
+          "name": "PRIMERO"
         },
                 {
             "id":3,
-          
+          "name": "PRIMERO"
         },
         {
             "id": 4,
-           
+           "name": "PRIMERO"
         },
           {
             "id":5,
-           
+           "name": "PRIMERO"
         },
         {
             "id":6,
-            
+            "name": "PRIMERO"
         }
     ],
      "course": [
