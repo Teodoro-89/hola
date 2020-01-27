@@ -61,6 +61,7 @@
             "id":1,
           "name": "PRIMERA"
         },
+        
                 {
             "id":2,
           "name": "SEGUNDA"
@@ -77,9 +78,13 @@
             "id":5,
            "name": "QUINTA"
         },
-        {
+                 {
             "id":6,
-            "name": "SEXTA"
+          "name": "SEXTA"
+        },
+        {
+            "id":7,
+            "name": "NINGUNA"
         }
     ],
      "course": [
